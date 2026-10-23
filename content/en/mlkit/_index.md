@@ -56,7 +56,7 @@ the unit suite must pass with no oracle installed.
 | Oracle | How |
 |---|---|
 | scikit-learn, statsmodels | `uv run --with scikit-learn --with statsmodels`; JSON in, JSON out |
-| UCI Machine Learning Repository | https://archive.ics.uci.edu: iris, wine, digits; per-dataset licences to check |
+| UCI Machine Learning Repository | https://archive.ics.uci.edu (iris, wine, digits); per-dataset licences to check |
 
 What "correct" means:
 
