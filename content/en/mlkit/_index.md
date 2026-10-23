@@ -33,10 +33,10 @@ The references the work starts from (bibliography first):
 - Arthur and Vassilvitskii, k-means++, SODA 2007 (ISBN 978-0-89871-624-5)
 - [Ester, Kriegel, Sander and Xu, DBSCAN, KDD 1996](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)
 - [Cortes and Vapnik, support-vector networks, 1995](https://doi.org/10.1007/BF00994018)
-- [Chang and Lin, LIBSVM, ACM TIST 2011](https://doi.org/10.1145/1961189.1961199)
+- Chang and Lin, LIBSVM, ACM TIST 2011, doi:10.1145/1961189.1961199
 - [Breiman, random forests, Machine Learning 45 (2001)](https://doi.org/10.1023/A:1010933404324)
 - [Friedman, gradient boosting, Ann. Stat. 29:1189 (2001)](https://doi.org/10.1214/aos/1013203451)
-- [Chen and Guestrin, XGBoost, KDD 2016](https://doi.org/10.1145/2939672.2939785)
+- Chen and Guestrin, XGBoost, KDD 2016, doi:10.1145/2939672.2939785
 - [Hastie, Tibshirani and Friedman, *The Elements of Statistical Learning*, 2nd ed.](https://doi.org/10.1007/978-0-387-84858-7)
 
 ## Reference implementations
